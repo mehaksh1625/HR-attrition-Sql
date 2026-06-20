@@ -11,8 +11,7 @@ capacity, where attrition diagnosis directly informs retention strategy.
 **Tools:** MySQL Workbench · SQL (Common Table Expressions, window functions, 
 conditional aggregation, subqueries)
 
-**Dataset:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset), 
-Kaggle (1,470 records)
+**Dataset:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 
 ## Summary of Findings
@@ -70,7 +69,7 @@ greater retention impact than uniform increases across the workforce.
 
 ---
 
-## Methodology Notes
+## Methodology
 
 Attrition rates throughout this analysis are calculated as the proportion of 
 employees with `Attrition = 'Yes'` within each respective group, rather than 
